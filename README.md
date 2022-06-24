@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Harshad</h1>
-<h3 align="center">Bioinformatics Researcher</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshdhgd&label=Profile%20views&color=0e75b6&style=flat" alt="hrshdhgd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshdhgd" alt="hrshdhgd" /></a> </p>
-
-- 🔭 I’m currently working on [Ontology backed named entity recognition (NER)](https://github.com/monarch-initiative/ontorunner)
 
 <h1 align="center">Hi 👋, I'm Harshad</h1>
 <h3 align="center">Bioinformatics Researcher</h3>
