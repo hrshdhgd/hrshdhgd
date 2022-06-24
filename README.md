@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   - Knowledge Graph developemnt: [kg-microbe](https://github.com/Knowledge-Graph-Hub/kg-microbe)
   - Graph ML based projects: [neat-ml](https://github.com/Knowledge-Graph-Hub/neat-ml) driven by [neat-schema](https://github.com/Knowledge-Graph-Hub/neat-ml-schema)
   - Mapping ontologies using simple standards: [sssom](https://github.com/mapping-commons/sssom-py) driven by [sssom-schema](https://github.com/mapping-commons/sssom)
+  - Application Ontology developement: [BERO](https://bioportal.bioontology.org/ontologies/BERO)
   
 
 <h3 align="left">Languages and Tools:</h3>
