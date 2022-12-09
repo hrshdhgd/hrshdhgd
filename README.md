@@ -21,11 +21,15 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshdhgd" alt="hrshdhgd" /></a> </p>
 
 ### 🔭 I’m currently working on 
+  - Automation of ontology change requests: [ontobot-change-agent](https://github.com/hrshdhgd/ontobot-change-agent)
   - Ontology backed named entity recognition (NER): [ontoRunNER](https://github.com/monarch-initiative/ontorunner)
   - Knowledge Graph development: [kg-microbe](https://github.com/Knowledge-Graph-Hub/kg-microbe)
   - Graph ML based projects: [neat-ml](https://github.com/Knowledge-Graph-Hub/neat-ml) driven by [neat-schema](https://github.com/Knowledge-Graph-Hub/neat-ml-schema)
   - Mapping ontologies using simple standards: [sssom](https://github.com/mapping-commons/sssom-py) driven by [sssom-schema](https://github.com/mapping-commons/sssom)
   - Application Ontology developement: [BERO](https://bioportal.bioontology.org/ontologies/BERO)
+
+### 🌱 I’m currently learning
+  - Rust via [rustlings](https://github.com/rust-lang/rustlings)
   
 
 <h3 align="left">Languages and Tools:</h3>
