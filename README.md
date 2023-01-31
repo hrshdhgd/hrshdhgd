@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrshdhgd&show_icons=true&locale=en" alt="hrshdhgd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshdhgd&" alt="hrshdhgd" /></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
