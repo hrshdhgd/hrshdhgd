@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrshdhgd&label=Profile%20views&color=0e75b6&style=flat" alt="hrshdhgd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrshdhgd" alt="hrshdhgd" /></a></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hrshdhgd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔭 I’m currently working on 
   - Automation of ontology change requests: [ontobot-change-agent](https://github.com/hrshdhgd/ontobot-change-agent)
