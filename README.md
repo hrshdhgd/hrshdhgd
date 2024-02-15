@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m currently learning
   - Rust via [rustlings](https://github.com/rust-lang/rustlings)
     - Project that came out of learning Rust: [semsimian](https://github.com/monarch-initiative/semsimian)
-  - Efficient project development and improvement by applying LLMs [CoderGPT](https://github.com/hrshdhgd/CoderGPT)
+  - Efficient project development and improvement by applying LLMs: [CoderGPT](https://github.com/hrshdhgd/CoderGPT)
   
 
 <h3 align="left">Languages and Tools:</h3>
