@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   - Automation of ontology change requests: [ontobot-change-agent](https://github.com/hrshdhgd/ontobot-change-agent)
   - Ontology backed named entity recognition (NER): [ontoRunNER](https://github.com/monarch-initiative/ontorunner)
   - Application of the above as plugins to [`oaklib`](https://github.com/INCATools/ontology-access-kit)
-    - [`oakx-spacy`](https://github.com/hrshdhgd/oakx-spacy)
-    - [`oakx-oger`](https://github.com/hrshdhgd/oakx-oger) 
+    - [oakx-spacy](https://github.com/hrshdhgd/oakx-spacy)
+    - [oakx-oger](https://github.com/hrshdhgd/oakx-oger) 
   - Knowledge Graph development: [kg-bacdive](https://github.com/Knowledge-Graph-Hub/kg-bacdive)
   - Graph ML based projects: [neat-ml](https://github.com/Knowledge-Graph-Hub/neat-ml) driven by [neat-schema](https://github.com/Knowledge-Graph-Hub/neat-ml-schema)
   - Mapping ontologies using simple standards: [sssom](https://github.com/mapping-commons/sssom-py) driven by [sssom-schema](https://github.com/mapping-commons/sssom)
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning
   - Rust via [rustlings](https://github.com/rust-lang/rustlings)
-    - Project that came out of learning `rust`: [semsimian](https://github.com/monarch-initiative/semsimian)
+    - Project that came out of learning Rust: [semsimian](https://github.com/monarch-initiative/semsimian)
   - Efficient project development and improvement by applying LLMs [CoderGPT](https://github.com/hrshdhgd/CoderGPT)
   
 
