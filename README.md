@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   - Rust via [rustlings](https://github.com/rust-lang/rustlings)
     - Project that came out of learning Rust: [semsimian](https://github.com/monarch-initiative/semsimian)
   - Efficient project development and improvement by applying LLMs: [CoderGPT](https://github.com/hrshdhgd/CoderGPT)
+  - Chatbot to query and visualize Knowledge graphs: [kg-chat](https://github.com/Knowledge-Graph-Hub/kg-chat)
   
 
 <h3 align="left">Languages and Tools:</h3>
